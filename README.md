@@ -4,6 +4,8 @@ Link do criador original: https://www.youtube.com/channel/UCBlr2jG1onljL-gUy9bbh
 <br>
 Tecnologias utilizadas:<br>
 <ul>
-  <li>aaaa</li>  
-  <li>aaaa</li> 
+  <li>HTML5</li>  
+  <li>CSS3</li> 
+  <li>JavaScript</li> 
+  <li>boxicons</li> 
 </ul>
